@@ -1,5 +1,17 @@
-### Hi there 👋
+### About Me
+Hi there! I'm Miguel, a Web Developer, Photographer, and Gamer. I've been in love with technology ever since I was a kid, and once I was able to work the first thing I saved up for was my first PC build. Coding has always been on the back of my mind as something I want to learn, but I was always afraid. Over the past 4 years I've been on and off about learning it, but since 2020 I've decided to take it seriously. 
 
+I graduated with my Bachelor's degree in International Security and Conflict Resolution Spring of 2019 and since then have been saving up for a web development bootcamp called LEARN Academy while self-teaching with a few Udemy courses. Fall 2020 I have now graduated from my bootcamp and am currently working at an internship. 
+
+My experience is mostly with React, JavaScript/TypeScript, Ruby, and Ruby on Rails. However feel free to ask me about what I'm learning, because I feel like there's always something new.
+
+- Reach out to me here: LinkedIn || Twitter || Instagram
+- Link to my Resume if you need it.
+
+### Deployed Projects
+- Assemble - A web app for finding projects to work on, built with React and Rails (WIP). Capstone for LEARN.
+- Tanjiro Beatbox - A simple drumkit that uses key presses or button clicks to play the drums, built with HTML CSS and JS.
+- To-do List - to do list app I made for me to keep track of what I need to do during bootcamp.
 <!--
 **rmdpalo/rmdpalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
