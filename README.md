@@ -15,6 +15,7 @@ My experience is mostly with React, JavaScript/TypeScript, Ruby, and Ruby on Rai
 
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmdpalo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 I have done work in TS and Ruby/Rails it's just on other organizations! You can check below :)
 
 ### Stats
