@@ -14,7 +14,7 @@ My experience is mostly with React, JavaScript/TypeScript, Ruby, and Ruby on Rai
 - To-do List - to do list app I made for me to keep track of what I need to do during bootcamp.
 
 ### Stats
-[![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=rmdpalo)](https://github.com/anuraghazra/github-readme-stats)
+[![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=rmdpalo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rmdpalo/rmdpalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
