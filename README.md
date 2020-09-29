@@ -11,7 +11,7 @@ My experience is mostly with React, JavaScript/TypeScript, Ruby, and Ruby on Rai
 ### Deployed Projects
 - [Assemble](https://gentle-ridge-89788.herokuapp.com/index) - A web app for finding projects to work on, built with React and Rails (WIP). Capstone for LEARN.
 - [Tanjiro Beatbox](https://tanjirobeatbox.netlify.app/) - A simple drumkit that uses key presses or button clicks to play the drums, built with HTML CSS and JS.
-- To-do List - to do list app I made for me to keep track of what I need to do during bootcamp.
+- [To-do List](https://rmdpalotodo.netlify.app/) - to do list app I made for me to keep track of what I need to do during bootcamp.
 
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmdpalo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
