@@ -9,9 +9,12 @@ My experience is mostly with React, JavaScript/TypeScript, Ruby, and Ruby on Rai
 - Link to my [Resume](https://www.canva.com/design/DAEEnUh24w8/XFscjbRunVpc14gClbMqvA/view?utm_content=DAEEnUh24w8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) if you need it.
 
 ### Deployed Projects
-- Assemble - A web app for finding projects to work on, built with React and Rails (WIP). Capstone for LEARN.
-- Tanjiro Beatbox - A simple drumkit that uses key presses or button clicks to play the drums, built with HTML CSS and JS.
+- [Assemble](https://gentle-ridge-89788.herokuapp.com/index) - A web app for finding projects to work on, built with React and Rails (WIP). Capstone for LEARN.
+- [Tanjiro Beatbox](https://tanjirobeatbox.netlify.app/) - A simple drumkit that uses key presses or button clicks to play the drums, built with HTML CSS and JS.
 - To-do List - to do list app I made for me to keep track of what I need to do during bootcamp.
+
+### Stats
+[![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=rmdpalo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rmdpalo/rmdpalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
