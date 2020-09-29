@@ -13,6 +13,8 @@ My experience is mostly with React, JavaScript/TypeScript, Ruby, and Ruby on Rai
 - [Tanjiro Beatbox](https://tanjirobeatbox.netlify.app/) - A simple drumkit that uses key presses or button clicks to play the drums, built with HTML CSS and JS.
 - To-do List - to do list app I made for me to keep track of what I need to do during bootcamp.
 
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmdpalo)](https://github.com/anuraghazra/github-readme-stats)
 ### Stats
 [![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=rmdpalo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
