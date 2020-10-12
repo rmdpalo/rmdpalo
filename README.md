@@ -9,7 +9,7 @@ My experience is mostly with React, JavaScript/TypeScript, Ruby, and Ruby on Rai
 - Link to my [Resume](https://www.canva.com/design/DAEEnUh24w8/XFscjbRunVpc14gClbMqvA/view?utm_content=DAEEnUh24w8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) if you need it.
 
 ### Deployed Projects
-- [Assemble](https://gentle-ridge-89788.herokuapp.com/index) - A web app for finding projects to work on, built with React and Rails (WIP). Capstone for LEARN.
+- [Assemble](https://gentle-ridge-89788.herokuapp.com/) - A web app for finding projects to work on, built with React and Rails (WIP). Capstone for LEARN.
 - [Tanjiro Beatbox](https://tanjirobeatbox.netlify.app/) - A simple drumkit that uses key presses or button clicks to play the drums, built with HTML CSS and JS.
 - [To-do List](https://rmdpalotodo.netlify.app/) - to do list app I made for me to keep track of what I need to do during bootcamp.
 
