@@ -12,8 +12,8 @@ My experience is mostly with React, JavaScript/TypeScript, Ruby, and Ruby on Rai
 - [Assemble](https://gentle-ridge-89788.herokuapp.com/) - A web app for finding projects to work on, built with React and Rails (WIP). Capstone for LEARN.
 - [JS30 Showcase](https://rmdpalojs30.netlify.app/) - A simple page that holds all the JS30 mini projects I finish. (10/30)
 - [Tanjiro Beatbox](https://tanjirobeatbox.netlify.app/) - A simple drumkit that uses key presses or button clicks to play the drums, built with HTML CSS and JS.
+- [Museum of Candy](https://rmdpalomoc.netlify.app/) - Landing Page mockup made for a fictional Museum of Candy.
 - [To-do List](https://rmdpalotodo.netlify.app/) - to do list app I made for me to keep track of what I need to do during bootcamp.
-
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmdpalo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
