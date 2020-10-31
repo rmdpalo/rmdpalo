@@ -5,6 +5,8 @@ I graduated with my Bachelor's degree in International Security and Conflict Res
 
 My experience is mostly with React, JavaScript/TypeScript, Ruby, and Ruby on Rails. However feel free to ask me about what I'm learning, because I feel like there's always something new. To be completely transparent, I want to be able to be proficient in a single language first and for me that language is JavaScript. Expect my work to be mostly done in that!
 
+What I'm working on: studying Data-Structures and Algorithms.
+
 - Reach out to me here: [LinkedIn](https://www.linkedin.com/in/reynaldo-miguel-palo/) || [Twitter](https://twitter.com/MigsDev) || [Instagram](https://www.instagram.com/miguel.analog/)
 - Link to my [Resume](https://www.canva.com/design/DAEEnUh24w8/XFscjbRunVpc14gClbMqvA/view?utm_content=DAEEnUh24w8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) if you need it.
 
