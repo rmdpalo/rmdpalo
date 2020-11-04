@@ -1,7 +1,7 @@
 ### About Me
 Hi there! I'm Miguel, a Web Developer, Photographer, and Gamer. I've been in love with technology ever since I was a kid, and once I was able to work the first thing I saved up for was my first PC build. Coding has always been on the back of my mind as something I want to learn, but I was always afraid. Over the past 4 years I've been on and off about learning it, but since 2020 I've decided to take it seriously. 
 
-I graduated with my Bachelor's degree in International Security and Conflict Resolution Spring of 2019 and since then have been saving up for a web development bootcamp called LEARN Academy while self-teaching with a few Udemy courses. Fall 2020 I have now graduated from my bootcamp and am currently working at an internship. 
+I graduated with my Bachelor's degree in International Security and Conflict Resolution Spring of 2019 and since then have been saving up for a web development bootcamp called LEARN Academy while self-teaching with a few Udemy courses. Fall 2020 I have now graduated from my bootcamp and am currently working as an intern for a company called Mucktracker. 
 
 My experience is mostly with React, JavaScript, TypeScript, Ruby, and Ruby on Rails. However feel free to ask me about what I'm learning, because I feel like there's always something new. To be completely transparent, I want to be able to be proficient in a single language first and for me that language is JavaScript. Expect my work to be mostly done in that!
 
