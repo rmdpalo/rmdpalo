@@ -3,9 +3,9 @@ Hi there! I'm Miguel, a Web Developer, Photographer, and Gamer. I've been in lov
 
 I graduated with my Bachelor's degree in International Security and Conflict Resolution Spring of 2019 and since then have been saving up for a web development bootcamp called LEARN Academy while self-teaching with a few Udemy courses. Fall 2020 I have now graduated from my bootcamp and am currently working as an intern for a company called Mucktracker. 
 
-My experience is mostly with React, JavaScript, TypeScript, Ruby, and Ruby on Rails. However feel free to ask me about what I'm learning, because I feel like there's always something new. To be completely transparent, I want to be able to be proficient in a single language first and for me that language is JavaScript. Expect my work to be mostly done in that!
+My experience is mostly with React, JavaScript, TypeScript, Ruby, and Ruby on Rails. However feel free to ask me about what I'm learning, because I feel like there's always something new. 
 
-What I'm working on: studying Data-Structures and Algorithms and JavaScript 30.
+What I'm working on: Learning Python.
 
 - Reach out to me here: [LinkedIn](https://www.linkedin.com/in/reynaldo-miguel-palo/) || [Twitter](https://twitter.com/MigsDev) || [Instagram](https://www.instagram.com/miguel.analog/)
 - Link to my [Resume](https://www.canva.com/design/DAEEnUh24w8/XFscjbRunVpc14gClbMqvA/view?utm_content=DAEEnUh24w8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) if you need it.
