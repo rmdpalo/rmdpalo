@@ -15,6 +15,7 @@ What I'm working on: [Learning Python](https://github.com/rmdpalo/100-days-of-py
 - [JS30 Showcase](https://rmdpalojs30.netlify.app/) - A simple page that holds all the JS30 mini projects I finish. (12/30)
 - [Tanjiro Beatbox](https://tanjirobeatbox.netlify.app/) - A simple drumkit that uses key presses or button clicks to play the drums, built with HTML CSS and JS.
 - [Rock Paper Scissors](https://rmdpalo.github.io/rock-paper-scissors/) - Rock paper scissors game made with HTML, CSS, and JS.
+- [DOM Etch-A-Sketch](https://rmdpalo.github.io/etch-a-sketch/) - Etch a sketch app that functions by manipulating the DOM using javascript.
 - [Museum of Candy](https://rmdpalomoc.netlify.app/) - Landing Page mockup made for a fictional Museum of Candy.
 - [To-do List](https://rmdpalotodo.netlify.app/) - to do list app I made for me to keep track of what I need to do during bootcamp.
 
