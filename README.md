@@ -17,6 +17,7 @@ What I'm working on: The Odin Project's Fullstack Javascript curriculum.
 - [Rock Paper Scissors](https://rmdpalo.github.io/rock-paper-scissors/) - Rock paper scissors game made with HTML, CSS, and JS.
 - [DOM Etch-A-Sketch](https://rmdpalo.github.io/etch-a-sketch/) - Etch a sketch app that functions by manipulating the DOM using javascript.
 - [Museum of Candy](https://rmdpalomoc.netlify.app/) - Landing Page mockup made for a fictional Museum of Candy.
+- [Library App](https://rmdpalo.github.io/library-app/) - Add books to your reading list and change their status from unread to read!
 - [To-do List](https://rmdpalotodo.netlify.app/) - to do list app I made for me to keep track of what I need to do during bootcamp.
 
 ### Stats
