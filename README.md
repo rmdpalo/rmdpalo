@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I'm Miguel. I like film photography and games. I graduated fullstack web-dev bootcamp fall 2020 and have been looking for crumbs ever since. Get at me.
+Hi, I'm Miguel. I like film photography and games. I graduated fullstack web-dev bootcamp fall 2020 and have been looking for crumbs of opportunity ever since. Get at me.
 
 My experience is mostly with React, JavaScript, TypeScript, Ruby, and Ruby on Rails. However feel free to ask me about what I'm learning, because I feel like there's always something new. 
 
