@@ -7,7 +7,7 @@ My experience is mostly with React, JavaScript, TypeScript, Ruby, and Ruby on Ra
 **What I'm working on: Phaser.js for a game and a Pokedex app using react.**
 
 - Reach out to me here: [LinkedIn](https://www.linkedin.com/in/reynaldo-miguel-palo/) || [Twitter](https://twitter.com/MigsDev) || [Instagram](https://www.instagram.com/miguel.analog/)
-- Link to my [Resume](https://www.canva.com/design/DAEEnUh24w8/XFscjbRunVpc14gClbMqvA/view?utm_content=DAEEnUh24w8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) if you need it.
+- Link to my [Resume](https://docs.google.com/document/d/11kfMT8s6RCpZsaYGrSG0Gw9-7QPTtst7xKyHJ8HN-yg/edit?usp=sharing) if you need it.
 
 ### Deployed Projects
 - [Assemble](https://gentle-ridge-89788.herokuapp.com/) - A web app for finding projects to work on, built with React and Rails (WIP). Capstone for LEARN.
