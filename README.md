@@ -10,6 +10,7 @@ My experience is mostly with React, JavaScript, TypeScript, Ruby, and Ruby on Ra
 - Link to my [Resume](https://docs.google.com/document/d/1U4XzpqUVTeWNWz_ODcjHcpyEw2mv2FfyJvfqwAko_ZA/edit?usp=sharing) if you need/want it.
 
 ### Deployed Projects
+- [Pokedex App](https://bndiep.github.io/pokedex/) - React pokedex utilizing PokeAPI and react hooks.
 - [Assemble](https://gentle-ridge-89788.herokuapp.com/) - A web app for finding projects to work on, built with React and Rails (WIP). Capstone for LEARN.
 - [JS30 Showcase](https://rmdpalojs30.netlify.app/) - A simple page that holds all the JS30 mini projects I finish. (12/30)
 - [Tanjiro Beatbox](https://tanjirobeatbox.netlify.app/) - A simple drumkit that uses key presses or button clicks to play the drums, built with HTML CSS and JS.
