@@ -10,6 +10,7 @@ My experience is mostly with React, JavaScript, TypeScript, Ruby, Shopify Liquid
 - Link to my [Resume](https://docs.google.com/document/d/1U4XzpqUVTeWNWz_ODcjHcpyEw2mv2FfyJvfqwAko_ZA/edit?usp=sharing) if you need/want it.
 
 ### Deployed Projects
+- [Numerology "Destiny Number" Calculator](https://github.com/rmdpalo/numerology-calculator/tree/main) - Converts an inputted name into a "Destiny Number" using Python 3.
 - [Encourage Bot](https://github.com/rmdpalo/Encourage-Bot) - A discord bot written in Python 3, meant to encourage and be there for people.
 - [Pokedex App](https://bndiep.github.io/pokedex/) - React pokedex utilizing PokeAPI and react hooks. (WIP)
 - [Assemble](https://gentle-ridge-89788.herokuapp.com/) - A web app for finding projects to work on, built with React and Rails (WIP). Capstone for LEARN.
