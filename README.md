@@ -14,7 +14,7 @@ My experience is mostly with React, JavaScript, TypeScript, Ruby, Shopify Liquid
 - [Numerology "Destiny Number" Calculator](https://github.com/rmdpalo/numerology-calculator/tree/main) - Converts an inputted name into a "Destiny Number" using Python 3.
 - [Encourage Bot](https://github.com/rmdpalo/Encourage-Bot) - A discord bot written in Python 3, meant to encourage and be there for people.
 - [Pokedex App](https://bndiep.github.io/pokedex/) - React pokedex utilizing PokeAPI and react hooks. (WIP)
-- [Assemble](https://gentle-ridge-89788.herokuapp.com/) - A web app for finding projects to work on, built with React and Rails (WIP). Capstone for LEARN.
+- [Assemble](https://github.com/rmdpalo/assemble) - A web app for finding projects to work on, built with React and Rails (WIP). Capstone for LEARN.
 - [100 Days of Python](https://github.com/rmdpalo/100-days-of-python/) - mini projects as I go through my journey of learning Python. 
 - [JS30 Showcase](https://rmdpalojs30.netlify.app/) - A simple page that holds all the JS30 mini projects I finish.
 - [Tanjiro Beatbox](https://tanjirobeatbox.netlify.app/) - A simple drumkit that uses key presses or button clicks to play the drums, built with HTML CSS and JS.
