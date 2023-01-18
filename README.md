@@ -6,10 +6,11 @@ My experience is mostly with React, JavaScript, TypeScript, Ruby, Shopify Liquid
 
 **What I'm working on: Data Structures and Algorithms (help).**
 
-- Reach out to me here: [LinkedIn](https://www.linkedin.com/in/reynaldo-miguel-palo/) || [Twitter](https://twitter.com/MigsDev) || [Instagram](https://www.instagram.com/miguel.analog/)
+- Reach out to me here: [LinkedIn](https://www.linkedin.com/in/reynaldo-miguel-palo/) || [Twitter](https://twitter.com/MigsDev) 
 - Link to my [Resume](https://docs.google.com/document/d/1U4XzpqUVTeWNWz_ODcjHcpyEw2mv2FfyJvfqwAko_ZA/edit?usp=sharing) if you need/want it.
 
 ### Deployed Projects
+- [Towers of Hanoi](https://github.com/rmdpalo/towers-of-hanoi) - A Python 3 Terminal game that uses a Linked List to create Stacks to implement this game.
 - [Numerology "Destiny Number" Calculator](https://github.com/rmdpalo/numerology-calculator/tree/main) - Converts an inputted name into a "Destiny Number" using Python 3.
 - [Encourage Bot](https://github.com/rmdpalo/Encourage-Bot) - A discord bot written in Python 3, meant to encourage and be there for people.
 - [Pokedex App](https://bndiep.github.io/pokedex/) - React pokedex utilizing PokeAPI and react hooks. (WIP)
