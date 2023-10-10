@@ -3,6 +3,7 @@
 Hi, I'm Miguel. I like film photography and games. I graduated fullstack web-dev bootcamp fall 2020 and am now currently working as a front-end developer.
 
 My experience is mostly with React, JavaScript, TypeScript, Ruby, Shopify Liquid, and Ruby on Rails. However feel free to ask me about what I'm learning, because I feel like there's always something new. 
+EDIT 2023: Been doing a lot of work making internal tools/automations with Python
 
 **What I'm working on: Data Structures and Algorithms (help).**
 
