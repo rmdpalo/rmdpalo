@@ -6,7 +6,7 @@ My experience is mostly with React, JavaScript, TypeScript, Ruby, Shopify Liquid
 
 **What I'm working on: Data Structures and Algorithms (help).**
 
-- Reach out to me here: [LinkedIn](https://www.linkedin.com/in/reynaldo-miguel-palo/) || [Twitter](https://twitter.com/MigsDev) 
+- Reach out to me here: [LinkedIn](https://www.linkedin.com/in/reynaldo-miguel-palo/)
 - Link to my [Resume](https://docs.google.com/document/d/1U4XzpqUVTeWNWz_ODcjHcpyEw2mv2FfyJvfqwAko_ZA/edit?usp=sharing) if you need/want it.
 
 ### Deployed Projects
